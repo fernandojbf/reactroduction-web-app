@@ -1,0 +1,34 @@
+.Button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.Button-blue {
+  background-color: #318ce7;
+}
+
+.Button-blue:hover {
+  background-color: #4798E9;
+}
+
+.Button-red {
+  background-color: #fa8072;
+}
+
+.Button-red:hover {
+  background-color: #FCC2BB;
+}
+
+.Button-black {
+  background-color: #222;
+}
+
+
+.Button-black:hover {
+  background-color: #3B3B3B;
+}

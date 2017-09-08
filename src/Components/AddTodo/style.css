@@ -1,0 +1,15 @@
+.AddTodo-header {
+  display: flex;
+  justify-content: center;
+  margin: 16px;
+}
+
+.AddTodo-content {
+  display: flex;
+  margin-bottom: 32px;
+}
+
+.AddTodo-input {
+  flex: 3;
+  font-size: 16px;
+}
